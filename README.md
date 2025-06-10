@@ -1,7 +1,8 @@
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=800&lines=Designed+for+Safety.+Built+with+Purpose.;Oil+Refinery+SHE+Posters+by+Sumedh+Pimplikar!;Scored+Full+Marks+in+Safety,+Health+%26+Environment+Course" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F61C1C&center=true&vCenter=true&width=800&lines=Designed+for+Safety+and+a+Purpose.;Oil+Refinery+SHE+Posters!;Safety+Health+%26+Environment+Course" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="poster-images/fire.png" width="100" />
